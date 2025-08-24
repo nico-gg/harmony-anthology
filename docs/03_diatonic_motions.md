@@ -23,7 +23,7 @@
 
 ## Of I
 
-### $I-II-V-I$
+### I-II-V-I
 
 - **Bach JS, BWV 846 m2:** The prolongation feeling is reinforced with the ii's 7th in bass, held over from previous I. Bass does 1-1-7-1, almost pedal like.
 
