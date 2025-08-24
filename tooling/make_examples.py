@@ -18,14 +18,16 @@ for i, folder, author, work, measure, text in examples_df.itertuples():
     except FileExistsError:
         print(f"could not write {full_path}")
     except FileNotFoundError:
-        print(f"could not find image {i}")
+        print(f"could not find image {i}.png")
 
     with open("tooling\\\\examples_output.md", "a") as f:
         f.write(
             f"""
-            #### {folder}
+            # {folder}
 
-            - **{author}, {work} {measure}:** {text} ![]({full_path})
+            - **{author}, {work} {measure}:** {text} 
+            
+              ![](../{full_path.replace('\\\\', '/')})
             """
         )
 
