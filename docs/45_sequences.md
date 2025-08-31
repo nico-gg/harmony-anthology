@@ -8,7 +8,7 @@
 
  - **Bach JS, BWV 846 m12:**
 
-   ![](../images/05_sequences/Bach_JS-BWV_846_m12.png)
+   ![](../images/45_sequences/Bach_JS-BWV_846_m12.png)
 
 
 ### Uneven Tonicizations
@@ -17,4 +17,4 @@
 
  - **Bach JS, BWV 846 m5:** The final chord with the 7th in the bass is worthy of notice. This is smootly handled by the voice leading.
 
-   ![](../images/05_sequences/Bach_JS-BWV_846_m5.png)
+   ![](../images/45_sequences/Bach_JS-BWV_846_m5.png)

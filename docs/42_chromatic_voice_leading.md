@@ -1,25 +1,3 @@
-
-# Pivots
-
-
-## Up a Fifth
-
-### vi -> ii
-
-- **Bach JS, BWV 846 m5:** Because of inversions, this pivot is accomplished with minimal bass movement.
-
-  ![](../images/04_chromatic_devices/Bach_JS-BWV_846_m5.png) 
-
-
-### I -> IV
-
-#### In Minor
-
-- **Bach JS, BWV 846 m11:** The are many things at play in this passage. I still feel like this is made smoother by  this chord being coherent as IV of D melodic minor.
-
-  ![](../images/04_chromatic_devices/Bach_JS-BWV_846_m11.png)
-
-
 # Chromatic Voice Leadings
 
 ## Single Voice
@@ -30,7 +8,7 @@
 
 - **Bach JS, BWV 846 m11:** In minor, this motion can occur in as part of a modal shift from melodic to harmonic (it is one possible analysis of this passage). The doubled 3rd in the first chord are sent through contrary motion to the 2 diminished neighboring notes. An elegant 5 voice trick.
   
-  ![](../images/04_chromatic_devices/Bach_JS-BWV_846_m11.png)
+  ![](../images/42_chromatic_voice_leading/Bach_JS-BWV_846_m11.png)
 
 ## Two Voices
 
@@ -40,7 +18,7 @@
 
 - **Bach JS, BWV 846 m27:** On a V pedal.
   
-  ![](../images/04_chromatic_devices/Bach_JS-BWV_846_m27.png)
+  ![](../images/42_chromatic_voice_leading/Bach_JS-BWV_846_m27.png)
 
 ### 4-#4-b6-5 and 3-b3-2
 
@@ -48,6 +26,7 @@
 
 - **Bach JS, BWV 846 m21:** This double motion must be rare in classical settings, but occurs here because of the major 7th on IV, probably to be analysed as full-length suspension from the previous chord. Here also, the $ii^{ø7}$ chord is interposed between the secondary dominant and its target, making it a 2-step resolution to V.
 
-  ![](../images/04_chromatic_devices/Bach_JS-BWV_846_m21.png)
+  ![](../images/42_chromatic_voice_leading/Bach_JS-BWV_846_m21.png)
+
 
 
