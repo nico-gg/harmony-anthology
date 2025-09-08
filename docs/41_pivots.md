@@ -32,7 +32,7 @@
 
 ### IV becomes bVI
 
-- **Chopin, op6 n1 m15:** nan 
+- **Chopin, op6 n1 m15:**  
 
   ![](../images/41_pivots/Chopin-op6_n1_m15.png) 
 
