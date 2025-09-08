@@ -64,7 +64,7 @@
 
 ### 5-#4-4 and 5-b6-5
 
-#### $I-\[bII^7\]-V^7$
+#### $I-bVI^7-V^7$
 
 
 - **Chopin, op6 n2 m18:** By adding a 5-b6-5 to the 5-#4-4 voice leading, a tritone substitution (aka augmented 6th) approach to the dominant is obtained. 
