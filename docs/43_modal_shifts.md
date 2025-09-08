@@ -4,7 +4,7 @@
 
 ### Ionian
 
-- **Chopin, op6 n2 m40:** The preceding key and the E pitch prior drag the $C^{#5}$ on beat 2 to the minor side, which then shifts to major on the following measure. This chord is also retrospectively a $IV$. We could say this is a shift pivot: $iv$ becomes $IV$ through a b3-3 minor-major shift. The move overall feels deliberately jarring and accented. It's then smoothened by the repetition of the phrase. 
+- **Chopin, op6 n2 m40:** The preceding key and the E pitch prior drag the $C^{\#5}$ on beat 2 to the minor side, which then shifts to major on the following measure. This chord is also retrospectively a $IV$. We could say this is a shift pivot: $iv$ becomes $IV$ through a b3-3 minor-major shift. The move overall feels deliberately jarring and accented. It's then smoothened by the repetition of the phrase. 
 
   ![](../images/42_chromatic_voice_leading/Chopin-op6_n2_m40.png) 
 
