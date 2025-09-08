@@ -38,7 +38,7 @@
 
 ## A3(D5D2)
 
-### $V^7-i-\[V\^7]-III
+### $V^7-i-\[V\^7]-III$
 
 - **Chopin, op6 n1 m1:**  With 4-3 suspensions on the dominant chords (m1, m3). It's interesting how the treatment changes in m3-4 compared to m1-2. A new secondary voice in the right hand introduces an additional 2-1 suspension in m3 4-3 suspension in m4. 
 
