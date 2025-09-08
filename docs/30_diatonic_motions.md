@@ -25,7 +25,7 @@
 
 - **Chopin, op6 n2 m33:** 
 
-  ![](../images/03_diatonic_motions/Chopin-op6_n2_m33.png) 
+  ![](../images/30_diatonic_motions/Chopin-op6_n2_m33.png) 
 
 ## To vi
 
@@ -35,7 +35,7 @@
 
 - **Chopin, op6 n3 m33:** With a bit of chromatic voice leading. There's also a kind of mirror effect: backwards cycling to vi, then forward to I. Voicing: Empty fifths and octaves in the left hand, leaving harmonic space for the melody in parallel sixths. 
 
-  ![](../images/03_diatonic_motions/Chopin-op6_n3_m33.png) 
+  ![](../images/30_diatonic_motions/Chopin-op6_n3_m33.png) 
 
 # Deceptions
 
