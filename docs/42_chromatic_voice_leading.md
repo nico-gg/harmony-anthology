@@ -20,7 +20,7 @@
 
 ### 5-#4-4
 
-- **Chopin, op6 n2 m13:** Even when the pattern doesn't occur in a specific voice, a similar feeling is achieved I think. Voicings: complet drop-2 in the left hand over the measures. 
+- **Chopin, op6 n2 m13:** Even when the pattern doesn't occur in a specific voice, a similar feeling is achieved I think. Voicings: complete drop-2 chords in the left hand over the measures. 
 
   ![](../images/42_chromatic_voice_leading/Chopin-op6_n2_m13.png) 
 
