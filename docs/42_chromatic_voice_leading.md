@@ -28,7 +28,7 @@
 ### 7-b7-6
 
 #### $V-v-ii$
-- **Chopin, op6 n3 m33:** The shift produces a $v = iv/ii$ pivot. Could also be interpreted as a very brief shift to the mixolydian mode. 
+- **Chopin, op6 n3 m33:** The shift produces a $v = iv(ii)$ pivot. Could also be interpreted as a very brief shift to the mixolydian mode. 
 
   ![](../images/42_chromatic_voice_leading/Chopin-op6_n3_m33.png) 
 
@@ -55,7 +55,7 @@
 
 ### 4-#4-b6-5 and 3-b3-2
 
-#### $IV-vii^7/V-ii^{ø7}-V^7$
+#### $IV-vii^7(V)-ii^{ø7}-V^7$
 
 - **Bach JS, BWV 846 m21:** This double motion must be rare in classical settings, but occurs here because of the major 7th on IV, probably to be analysed as full-length suspension from the previous chord. Here also, the $ii^{ø7}$ chord is interposed between the secondary dominant and its target, making it a 2-step resolution to V.
 
