@@ -12,7 +12,7 @@
 
 ### 6-b6-5
 
-#### $IV-vii^7-i$
+#### $IV-vii^{o7}-i$
 
 - **Bach JS, BWV 846 m11:** In minor, this motion can occur in as part of a modal shift from melodic to harmonic (it is one possible analysis of this passage). The doubled 3rd in the first chord are sent through contrary motion to the 2 diminished neighboring notes. An elegant 5 voice trick.
   
